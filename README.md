@@ -11,7 +11,7 @@
 
 | [![java-alt][java]][java-url]    | [![cpp-alt][cpp]][cpp-url]       | [![groovy-alt][groovy]][groovy-url]          | [![javafx-alt][javafx]][javafx-url] |
 |----------------------------------|----------------------------------|----------------------------------------------|-------------------------------------|
-| [![mysql-alt][mysql]][mysql-url] | [![plsql-alt][plsql]][plsql-url] | [![sqlserver-alt][sqlserver]][sqlserver-url] | [![html-alt][html]][html-url]       |
+| [![mysql-alt][mysql]][mysql-url] | [![plsql-alt][plsql]][plsql-url] | [![sqlserver-alt][sqlserver]][sqlserver-url] | ![html-alt][html]       |
 | [![kali-alt][kali]][kali-url]    | [![git-alt][git]][git-url]       | [![tomcat-alt][tomcat]][tomcat-url]          | [![gradle-alt][gradle]][gradle-url] |
 
 [website]: https://afsalv.com/
@@ -50,7 +50,6 @@
 
 [html]: img/html.png
 [html-alt]: HTML
-[html-url]: https://www.oracle.com/java/
 
 [kali]: img/kali-linux.png
 [kali-alt]: Kali-Linux
