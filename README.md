@@ -14,11 +14,11 @@
 | [![mysql-alt][mysql]][mysql-url] | [![plsql-alt][plsql]][plsql-url] | [![sqlserver-alt][sqlserver]][sqlserver-url] | ![html-alt][html]       |
 | [![kali-alt][kali]][kali-url]    | [![git-alt][git]][git-url]       | [![tomcat-alt][tomcat]][tomcat-url]          | [![gradle-alt][gradle]][gradle-url] |
 
-[website]: https://afsalv.com/
-[blog]: https://genuinecoder.com/
-[youtube]: https://www.youtube.com/c/GenuineCoder
-[instagram]: instagram.com/afsalashyana/
-[linkedin]: https://www.linkedin.com/in/muhammedafsalvillan/
+## Games - 100% Pure PC-Gamer :-)
+
+| [![league-alt][league]][league-url] | [![fortnite-alt][fortnite]][fortnite-url]   | [![watchdogs2-alt][watchdogs2]][watchdogs2-url] |
+|-------------------------------------|---------------------------------------------|-------------------------------------------------|
+
 
 [java]: img/java.png
 [java-alt]: Java
@@ -68,5 +68,14 @@
 [gradle-url]: https://gradle.org/
 
 
+[league]: img/league.png
+[league-alt]: League_of_Legends
+[league-url]: https://lolprofile.net/summoner/euw/Suresh01
 
+[fortnite]: img/fortnite.png
+[fortnite-alt]: Fortnite
+[fortnite-url]: https://www.epicgames.com/fortnite/en-US/home
 
+[watchdogs2]: img/watchdogs2.png
+[watchdogs2-alt]: Watch_Dogs-2
+[watchdogs2-url]: https://lolprofile.net/summoner/euw/Suresh01
