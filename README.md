@@ -6,13 +6,16 @@
 - :heart: I love Java, Groovy and JavaFX. 
 - :computer: 2+ years of Desktop-app development experience
 - 🎗️ Excited to work with the help of DS & Algo
-
+- :bookmark: And these are the books that shape me 
+   
+  [![bookshelf-alt][bookshelf]][bookshelf-url]
 ## Languages and Tools
 
 | [![java-alt][java]][java-url]    | [![cpp-alt][cpp]][cpp-url]       | [![groovy-alt][groovy]][groovy-url]          | [![javafx-alt][javafx]][javafx-url] |
 |----------------------------------|----------------------------------|----------------------------------------------|-------------------------------------|
 | [![mysql-alt][mysql]][mysql-url] | [![plsql-alt][plsql]][plsql-url] | [![sqlserver-alt][sqlserver]][sqlserver-url] | ![html-alt][html]       |
 | [![kali-alt][kali]][kali-url]    | [![git-alt][git]][git-url]       | [![tomcat-alt][tomcat]][tomcat-url]          | [![gradle-alt][gradle]][gradle-url] |
+
 
 ## Games - 100% Pure PC-Gamer :-)
 
@@ -79,3 +82,7 @@
 [watchdogs2]: img/watchdogs2.png
 [watchdogs2-alt]: Watch_Dogs-2
 [watchdogs2-url]: https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2
+
+[bookshelf]: img/notion.png
+[bookshelf-alt]: Suresh's_Bookshelf
+[bookshelf-url]: https://cmsk-jav.notion.site/bbb2932cb2cc4c69a0e77dea49842d82?v=2cc18d01f0ac4e14b4d81bfda755794c
