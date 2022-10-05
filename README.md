@@ -78,4 +78,4 @@
 
 [watchdogs2]: img/watchdogs2.png
 [watchdogs2-alt]: Watch_Dogs-2
-[watchdogs2-url]: https://lolprofile.net/summoner/euw/Suresh01
+[watchdogs2-url]: https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2
