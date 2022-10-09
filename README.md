@@ -15,9 +15,35 @@
 |----------------------------------|----------------------------------|----------------------------------------------|-------------------------------------|
 | [![mysql-alt][mysql]][mysql-url] | [![plsql-alt][plsql]][plsql-url] | [![sqlserver-alt][sqlserver]][sqlserver-url] | ![html-alt][html]       |
 | [![kali-alt][kali]][kali-url]    | [![git-alt][git]][git-url]       | [![tomcat-alt][tomcat]][tomcat-url]          | [![gradle-alt][gradle]][gradle-url] |
+<!------------------->
+# Java User Group
+<!--
+| ![jug-alt][jug] |
+- MADRAS JUG 
+- Delhi & NCR JUG
+-->
+<table>
+  <tr>
+    <td> <img src ="img/jug.png" alt="JAVA-USER-GROUP"> </td>
+    <td>
+      <b>
+        <ul>
+            <li> <a href="https://www.meetup.com/madrasjug/">MADRAS JUG </a> 
+            <li> <a href="https://www.meetup.com/delhi-ncr-jug/"> Delhi & NCR JUG </a>
+        </ul>
+      </b>
+    </td>
+  </tr>
+</table>
 
+<!------------------->
+# Competitive Programming
+
+| [![codechef-alt][codechef]][codechef-url] | [![codeforce-alt][codeforce]][codeforce-url] |
+|-------------------------------------------|--------------------------------------------|
 
 ## Games - 100% Pure PC-Gamer :-)
+
 
 | [![league-alt][league]][league-url] | [![fortnite-alt][fortnite]][fortnite-url]   | [![watchdogs2-alt][watchdogs2]][watchdogs2-url] |
 |-------------------------------------|---------------------------------------------|-------------------------------------------------|
@@ -86,3 +112,15 @@
 [bookshelf]: img/notion.png
 [bookshelf-alt]: Suresh's_Bookshelf
 [bookshelf-url]: https://cmsk-jav.notion.site/bbb2932cb2cc4c69a0e77dea49842d82?v=2cc18d01f0ac4e14b4d81bfda755794c
+
+[jug]: img/jug.png
+[jug-alt]: Java-user-Group
+
+[codechef]: img/codechef.png
+[codechef-alt]: Codechef
+[codechef-url]: https://www.codechef.com/users/Suresh001
+
+[codeforce]: img/codeforce.png
+[codeforce-alt]: Codeforce
+[codeforce-url]: https://codeforces.com/profile/Suresh001
+
