@@ -6,8 +6,8 @@
 - :heart: I love Java, Groovy and JavaFX. 
 - :computer: 2+ years of Desktop-app development experience
 - 🎗️ Excited to work with the help of DS & Algo
-- :bookmark: And these are the books that shape me 
-   
+- :point_down: Check out the books that shape me
+
   [![bookshelf-alt][bookshelf]][bookshelf-url]
 ## Languages and Tools
 
