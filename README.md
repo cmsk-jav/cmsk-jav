@@ -99,7 +99,7 @@
 
 [league]: img/league.png
 [league-alt]: League_of_Legends
-[league-url]: https://lolprofile.net/summoner/euw/Suresh01
+[league-url]: https://lolprofile.net/summoner/sg/Suresh01#update
 
 [fortnite]: img/fortnite.png
 [fortnite-alt]: Fortnite
