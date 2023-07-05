@@ -11,10 +11,10 @@
   [![bookshelf-alt][bookshelf]][bookshelf-url]
 ## Languages and Tools
 
-| [![java-alt][java]][java-url]    | [![cpp-alt][cpp]][cpp-url]       | [![groovy-alt][groovy]][groovy-url]          | [![javafx-alt][javafx]][javafx-url] |
-|----------------------------------|----------------------------------|----------------------------------------------|-------------------------------------|
-| [![mysql-alt][mysql]][mysql-url] | [![plsql-alt][plsql]][plsql-url] | [![sqlserver-alt][sqlserver]][sqlserver-url] | ![html-alt][html]       |
-| [![kali-alt][kali]][kali-url]    | [![git-alt][git]][git-url]       | [![tomcat-alt][tomcat]][tomcat-url]          | [![gradle-alt][gradle]][gradle-url] |
+| [![java-alt][java]][java-url]     | [![cpp-alt][cpp]][cpp-url]             | [![groovy-alt][groovy]][groovy-url]          | [![javafx-alt][javafx]][javafx-url]             |
+|-----------------------------------|----------------------------------------|----------------------------------------------|-------------------------------------------------|
+| ![spring-boot-alt][spring-boot]   | [![angular-alt][angular]][angular-url] | [![selenium-alt][selenium]][selenium-url]    | [![postgresql-alt][postgresql]][postgresql-url] |
+| [![mysql-alt][mysql]][mysql-url]  | [![plsql-alt][plsql]][plsql-url]       | [![sqlserver-alt][sqlserver]][sqlserver-url] | [![kali-alt][kali]][kali-url]                   |
 <!------------------->
 # Java User Group
 <!--
@@ -123,4 +123,20 @@
 [codeforce]: img/codeforce.png
 [codeforce-alt]: Codeforce
 [codeforce-url]: https://codeforces.com/profile/Suresh001
+
+[spring-boot]: img/spring-boot.png
+[spring-boot-alt]: Spring-Boot
+[spring-boot-url]: https://spring.io/projects/spring-boot
+
+[angular]: img/angular.png
+[angular-alt]: Angular
+[angular-url]: https://angular.io/
+
+[postgresql]: img/postgresql.png
+[postgresql-alt]: Postgresql
+[postgresql-url]: https://www.postgresql.org/
+
+[selenium]: img/selenium.png
+[selenium-alt]: Selenium
+[selenium-url]: https://www.selenium.dev/
 
