@@ -4,7 +4,7 @@
 
 
 - :heart: I love Java, Groovy and JavaFX. 
-- :computer: 2+ years of Desktop-app development experience
+- :computer: 3+ years of development experience
 - 🎗️ Excited to work with the help of DS & Algo
 - :point_down: Check out the books that shape me
 
